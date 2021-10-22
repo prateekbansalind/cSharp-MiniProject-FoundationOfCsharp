@@ -66,17 +66,25 @@ namespace ConsoleUI
 
          private static int AskQuestionInt (string message)
         {
+            // This method basically allows user to ask question where he get integer in return.
             Console.Write(message);
             string outputText = Console.ReadLine();
 
+            //Below line will basically perform two task
+            //1. It will try to convert string into integer.
+            //2nd : if the string in number format then it will return true and also assign that converted integer into another variable.
             bool isValidInput = int.TryParse(outputText, out int output);
 
+            //this below line will check if the isValidInput bool has a true value.
+            //if its true than the converted value assign to the output variable.
             if (isValidInput)
             {
                 return output;
             }
             else
             {
+                //this block of code runs when the string input is not given as integer string format and then the below message will print out
+                //I have used while loop so that I can force user to enter the correct value in integer format. 
                 do
                 {
                     Console.WriteLine("Please enter the value in correct format (integer)");
@@ -85,6 +93,7 @@ namespace ConsoleUI
 
                     isValidInput = int.TryParse(outputText, out output);
                 } while (isValidInput == !true);
+                // Above line siginigfies that if the value is not correct then this loop will again run till the user doesnt give the value in correct format
             }
 
             return output; 
