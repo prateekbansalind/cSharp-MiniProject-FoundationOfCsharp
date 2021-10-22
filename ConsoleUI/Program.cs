@@ -18,7 +18,7 @@ namespace ConsoleUI
             do
             {
 
-                Console.WriteLine();
+                LineBreak();
                 //Ask the user for their name
                 string name = AskQuestion("What is your name: ");
 
@@ -30,7 +30,7 @@ namespace ConsoleUI
 
                 //Keep track of how many people are at the party.
                 Console.WriteLine($"Current number of people in the party: {SumArrayInListOfInteger(totalMembers)}");
-                
+               
 
                 decisionVar = AskQuestion("Do you want to make another entry (y/n): ");
 
@@ -38,11 +38,11 @@ namespace ConsoleUI
 
 
             //At the end, print out the guest list
-            Console.WriteLine();
+            LineBreak();
             IterateListItem(names);
 
             //and the total number of guests.
-            Console.WriteLine();
+            LineBreak();
             Console.WriteLine($"Total Number of guest present in the party are {SumArrayInListOfInteger(totalMembers)}");
 
            Console.ReadLine();
@@ -116,6 +116,12 @@ namespace ConsoleUI
                 output += listName[i];
             }
             return output;
+        }
+
+        private static void LineBreak()
+        {
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
