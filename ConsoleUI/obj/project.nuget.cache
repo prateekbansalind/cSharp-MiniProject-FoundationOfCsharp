@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0yUbGkaYGmy+AuAsDc8JkzTvuLzP14AX8areLL73l8KL0oz31jkr1xDboVzypmXYS0fLUxLnOVZEjMpSlogIgQ==",
+  "dgSpecHash": "zZYabiOx2abtZKA2PNWJ2RPjf91rfhyI3A+qWxHmErsdPt8Z/KcHid1dwXtCuGtSn/Da+SvA++9MiN6GutwJjA==",
   "success": true,
-  "projectFilePath": "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\ConsoleUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrateekBansal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

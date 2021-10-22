@@ -12,3 +12,16 @@ D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\03-MiniProject\cSharp-Foundatio
 D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\03-MiniProject\cSharp-Foundation-MiniProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\03-MiniProject\cSharp-Foundation-MiniProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\03-MiniProject\cSharp-Foundation-MiniProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\PrateekBansal\OneDrive - Datastar Ltd\Documents\github\cSharp\Foundation-of-cSharp\mini-project\cSharp-MiniProject-FoundationOfCsharp\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

@@ -76,7 +76,18 @@ namespace ConsoleUI
                 return output;
             }
             else
-                return 0;
+            {
+                do
+                {
+                    Console.WriteLine("Please enter the value in correct format (integer)");
+                    Console.Write(message);
+                    outputText = Console.ReadLine();
+
+                    isValidInput = int.TryParse(outputText, out output);
+                } while (isValidInput == !true);
+            }
+
+            return output; 
         }
 
          private static void IterateListItem (List<string> listName)

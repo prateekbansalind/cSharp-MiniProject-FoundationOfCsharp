@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\ConsoleUI.csproj",
-        "packagesPath": "C:\\Users\\prate\\.nuget\\packages\\",
-        "outputPath": "D:\\00-c-sharp\\iamtimcorey\\02-basic-common-syntax\\03-MiniProject\\cSharp-Foundation-MiniProject\\ConsoleUI\\obj\\",
+        "projectPath": "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\PrateekBansal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PrateekBansal\\OneDrive - Datastar Ltd\\Documents\\github\\cSharp\\Foundation-of-cSharp\\mini-project\\cSharp-MiniProject-FoundationOfCsharp\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PrateekBansal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
